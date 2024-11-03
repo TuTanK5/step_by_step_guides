@@ -33,7 +33,10 @@ Use VIA to modify keymap of the "Let's split 265" keyboard
 VIA supports some ways to map custom key combinations
 ## Any
 Choose a button to map, go to `Special`, click `Any` key then input any QMK supported key or key combination for the chosen button.
+
 ![alt text](imgs/2024-11-03_21h28_27.png)
+![alt text](imgs/2024-11-03_21h30_24.png)
+
 For all supported keycodes, see [https://docs.qmk.fm/keycodes](https://docs.qmk.fm/keycodes)
 
 Some basic keys: [Full list](https://docs.qmk.fm/keycodes#basic-keycodes)
@@ -48,7 +51,8 @@ Some basic keys: [Full list](https://docs.qmk.fm/keycodes#basic-keycodes)
 - ...
 
 Some modifiers: [Full list](https://docs.qmk.fm/keycodes#modifiers)
-Modifier can be used to create key combinations
+
+Modifier can be used to create key combinations.
 - `C(KC_<key>)`, `LCTL(KC_<key>)`, `RCTL(KC_<key>)` = Hold Ctrl and press \<key\>
 - `S(KC_<key>)`, `LSFT(KC_<key>)`, `RSFT(KC_<key>)` = Hold Shift and press \<key\>
 - `A(KC_<key>)`, `LALT(KC_<key>)`, `RALT(KC_<key>)` = Hold Alt and press \<key\>
