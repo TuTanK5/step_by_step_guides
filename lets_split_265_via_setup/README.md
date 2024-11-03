@@ -15,19 +15,18 @@ Use VIA to modify keymap of the "Let's split 265" keyboard
 - [https://docs.keeb.io/via](https://docs.keeb.io/via)
 - [https://docs.qmk.fm/keycodes](https://docs.qmk.fm/keycodes)
 # Set up VIA keymap editor
-1. Download file [lets_split_256_via.json](lets_split_256_via.json)
-2. Plug the keyboard in
-3. Use a Chromium-based browser like Chrome or Edge (Firefox is not supported), and go to [https://usevia.app/](https://usevia.app/)
-4. In usevia.app, go to `SETTING` tab, turn on `Show Design tab`
+- Download file [lets_split_256_via.json](lets_split_256_via.json)
+- Plug the keyboard in
+- Use a Chromium-based browser like Chrome or Edge (Firefox is not supported), and go to [https://usevia.app/](https://usevia.app/)
+- In usevia.app, go to `SETTING` tab, turn on `Show Design tab`
    ![alt text](imgs/2024-11-03_18h10_08.png)
-5. Go to `DESIGN` tab, turn on `Use V2 definition` then click on `Load`
+- Go to `DESIGN` tab, turn on `Use V2 definition` then click `Load` and load file `lets_split_256_via.json` you just downloaded
    ![alt text](imgs/2024-11-03_18h10_18.png)
-6. Load file `lets_split_256_via.json`
-7. You should be prompted to connect to the keyboard. (If not prompted, go to `CONFIGURE` tab, click on `AUTHORIZE DEVICE`.) Then Select `Let's split 265`, click `Connect`
+- You should be prompted to connect to the keyboard. (If not prompted, go to `CONFIGURE` tab, click on `AUTHORIZE DEVICE`.) Then Select `Let's split 265`, click `Connect`
    ![alt text](imgs/2024-11-03_18h14_40.png)
    ![alt text](imgs/2024-11-03_18h13_32.png)
    ![alt text](imgs/2024-11-03_18h13_37.png)
-8. Go to `CONFIGURE` tab to start keymap editing
+- Go to `CONFIGURE` tab to start keymap editing
    ![alt text](imgs/2024-11-03_18h19_01.png)
 
 # Map special keys and key combinations
