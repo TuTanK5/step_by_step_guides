@@ -29,8 +29,8 @@ Use VIA to modify keymap of the "Let's split 265" keyboard
 - Go to `CONFIGURE` tab to start keymap editing
    ![alt text](imgs/2024-11-03_18h19_01.png)
 
-# Map special keys and key combinations
-VIA supports some ways to map special keys and key combinations
+# Map custom key combinations
+VIA supports some ways to map custom key combinations
 ## Any
 Choose a button to map, go to `Special`, click `Any` key then input any QMK supported key or key combination for the chosen button.
 ![alt text](imgs/2024-11-03_21h28_27.png)
