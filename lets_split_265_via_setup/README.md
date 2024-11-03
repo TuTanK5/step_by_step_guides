@@ -4,7 +4,7 @@ Use VIA to modify keymap of the "Let's split 265" keyboard
 - [Table of Contents](#table-of-contents)
 - [Reference:](#reference)
 - [Set up VIA keymap editor](#set-up-via-keymap-editor)
-- [Map special keys and key combinations](#map-special-keys-and-key-combinations)
+- [Map custom key combinations](#map-custom-key-combinations)
   - [Any](#any)
   - [Macro](#macro)
     - [Record/Input macros](#recordinput-macros)
