@@ -29,12 +29,14 @@ Update packages with sudo apt update & sudo apt upgrade.
 
 Install zsh → https://github.com/ohmyzsh/ohmyzsh/wiki/Installing-ZSH
 
+Intstall oh-my-zsh https://github.com/ohmyzsh/ohmyzsh
+
 Install poetry → https://python-poetry.org/docs/#installing-with-the-official-installer
 
 # Setup VS Code
 Make sure VS Code is installed on host, then from wsl home 
 
-```dir run code .```
+```code .```
 
 # Setup Docker
 Follow the official guide to install Docker Desktop with WSL support → https://docs.docker.com/desktop/features/wsl/#download
