@@ -33,6 +33,7 @@ Intstall oh-my-zsh https://github.com/ohmyzsh/ohmyzsh
 
 Install poetry → https://python-poetry.org/docs/#installing-with-the-official-installer
 
+Set git-credential-manager https://github.com/git-ecosystem/git-credential-manager/blob/release/docs/wsl.md#configuring-wsl-with-git-for-windows-recommended
 # Setup VS Code
 Make sure VS Code is installed on host, then from wsl home 
 
