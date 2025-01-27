@@ -29,7 +29,19 @@ Update packages with sudo apt update & sudo apt upgrade.
 
 Install zsh → https://github.com/ohmyzsh/ohmyzsh/wiki/Installing-ZSH
 
-Intstall oh-my-zsh https://github.com/ohmyzsh/ohmyzsh
+Install oh-my-zsh https://github.com/ohmyzsh/ohmyzsh
+
+(Optional) Install some zsh plugins
+
+```git clone https://github.com/zsh-users/zsh-autosuggestions.git $ZSH_CUSTOM/plugins/zsh-autosuggestions```
+
+```git clone --depth 1 -- https://github.com/marlonrichert/zsh-autocomplete.git $ZSH_CUSTOM/plugins/zsh-autocomplete```
+
+```git clone https://github.com/zsh-users/zsh-syntax-highlighting.git $ZSH_CUSTOM/plugins/zsh-syntax-highlighting```
+
+Add the plugins to ~/.zshrc:
+
+```plugins=(git poetry zsh-autosuggestions zsh-autocomplete zsh-syntax-highlighting)```
 
 Install poetry → https://python-poetry.org/docs/#installing-with-the-official-installer
 
